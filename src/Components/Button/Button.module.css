@@ -1,0 +1,50 @@
+.Button {
+   
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-size: smaller;
+}
+
+/* .Button:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+} */
+
+.HomeButton1 {
+    width: 40%;
+    border-radius: 10px;
+    background-color: #6B67F5;
+    color: white;
+    margin-left: 7%;
+
+}
+
+.HomeButton2 {
+    width: 40%;
+    border-radius: 10px;
+    background-color: #6B67F5;
+    color:white;
+
+}
+
+.LoginButton {
+    width: 10%;
+    border-radius: 10px;
+    background-color: #6B67F5;
+    color:white;
+    margin-right:5% ;
+}
+
+.CardButton {
+    width: 90%;
+    border-radius: 10px;
+    background-color: #6B67F5;
+    color:white;
+    
+
+}

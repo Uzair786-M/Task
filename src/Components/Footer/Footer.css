@@ -1,0 +1,9 @@
+.marginT{
+    margin-top: 5rem;
+}
+
+@media (max-width:500px) {
+    .marginT{
+        margin-top: 5rem;
+    }  
+}

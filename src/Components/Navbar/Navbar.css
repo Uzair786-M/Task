@@ -1,0 +1,12 @@
+.button{
+    background-color: #6B67F5;
+     width: 10%;
+      border-radius: 10rem
+}
+
+@media (max-width:500px) {
+    .button{
+        width: 20%;
+        margin-left: 3rem;
+    }
+}

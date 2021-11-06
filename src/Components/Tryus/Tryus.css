@@ -1,0 +1,65 @@
+/* .Try {
+    position: absolute; margin-left: 6rem; margin-top: 1.5rem; 
+}
+
+@media (max-width:500px) {
+    .Try {
+margin-right: 3rem;
+
+    }
+} */
+
+.img {
+    width: 50%;
+    height: 40%;
+    margin-top: 5rem;
+    
+    position: absolute;
+}
+
+@media (max-width:500px) {
+    .img {
+width: 80%;
+
+
+
+
+margin-right: 6rem;
+    }
+}
+
+.fonts {
+    font-size: 2rem;
+     font-weight: bold;
+     
+    
+}
+
+@media (max-width:500px) {
+    .fonts {
+        font-size: 1rem;
+        
+        
+        
+
+    }
+}
+
+
+.buttons{
+    background-color: #6B67F5;
+     width: 20%;
+      border-radius: 1rem;
+      
+}
+
+@media (max-width:500px) {
+    .buttons{
+        width: 80%;
+        border-radius: 1rem;
+        margin-top: 2rem;
+        
+    }
+}
+
+

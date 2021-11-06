@@ -1,0 +1,23 @@
+.img{
+  width: 7%;
+  border-radius: 50%;
+}
+
+.imgs{
+  width: 100%;
+  margin-left: 3rem;
+  margin-top: 4rem;
+}
+
+.txt{
+  margin-left: 14%;
+  margin-top: 2%;
+}
+
+
+@media (max-width:500px) {
+  .txt{
+    width: 70%;
+  }
+  
+}
