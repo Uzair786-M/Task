@@ -27,7 +27,7 @@ const Cards = (props) => {
 
 
 
-            <Card style={{ width: '18rem', borderRadius: "1rem" }}>
+            <Card className="Card">
                 <div className="headings h1" >{props.Cont.popular}</div>
 
 

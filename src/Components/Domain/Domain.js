@@ -6,7 +6,7 @@ const Domain = () => {
         <>
 
 
-            <div className="container w-75 mt-5" >
+            <div className="container w-75 mt-5     " >
                 <div className="row">
                     <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                         <div className="card text-white p-4" style={{ backgroundColor: "#6B67F5", boxShadow: "5px 5px 5px rgba(0,0,0,0.5)", borderRadius: "1.5rem" }}>
@@ -21,13 +21,14 @@ const Domain = () => {
 
 
                                     <InputGroup className="mb-3 ">
-                                        <FormControl aria-label="Text input with dropdown button" placeholder="Search your domain name" />
+                                        <FormControl aria-label="Text input with dropdown button" placeholder="Search your domain name" size="sm" />
 
                                         <SplitButton
 
                                             title="Search"
                                             id="segmented-button-dropdown-2"
                                             alignRight
+                                            size="sm"
 
                                         >
                                             <Dropdown.Item href="#">Action</Dropdown.Item>

@@ -45,17 +45,17 @@ const Price = () => {
                                 </div>
 
                                 <div className="row">
-                                    <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12 Card mt-5" >
+                                    <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12 mt-5" >
                                         <Cards Cont={Obj1} IconTrue={element1} IconFalse={element2} id="1" />
                                     </div>
-                                    <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12 Card">
+                                    <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">
 
 
                                         <Cards Cont={Obj2} IconTrue={element1} IconFalse={element2} id="2" />
 
 
                                     </div>
-                                    <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12 Card mt-5">
+                                    <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12 mt-5">
                                         <Cards Cont={Obj3} IconTrue={element1} IconFalse={element2} id="3" />
                                     </div>
                                 </div>
